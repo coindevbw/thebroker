@@ -1,5 +1,7 @@
 # The Broker
 
+Here's the [verified Smart Contract code](https://etherscan.io/address/0xd3ff6fa792732da88b08775b74a399e3a523a5e8#code)
+
 (Also migrated to the test network, 'Ropsten')
 
 Ethereum Smart Contract assure us the transaction between both parties involved in a contract is authentic. But do you really trust anybody on the Internet? What if the seller doesn't send you the product after you paid the price already? What if the buyer doesn't confirm or even pretend he/she didn't get the product?
