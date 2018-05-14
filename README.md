@@ -93,4 +93,6 @@ Important thing is that you have responsibility of making sure of the item deliv
 ## Future plan
 Of course, we can mix in the 'auction' model here.
 
-
+## Donation
+If you want to support project, you can send Ethereum to this address. Thank you.
+0x7C67F0CDBea74592240d492Aef2a712DAFa094c3
