@@ -1,6 +1,6 @@
 # The Ethereum Middleman (Formerly 'The Broker')
 
-Here's the [verified Smart Contract code](https://etherscan.io/address/0xe5c67eaa5b7d17f8418d097ad6ac6cac184f6bfb#code)
+Here's the [verified Smart Contract code](https://etherscan.io/address/0xa3c0a687a6665b9f2f7e718215fbb9cb588283a9#code)
 
 (Also migrated to the test network, 'Ropsten')
 
@@ -29,6 +29,8 @@ The buyer sends the money, give in required documents to the Middleman for valid
 Either the seller or Middleman can create a new contract. Only the creator can set the price information, and the fee for the Middleman. 
 
 When selling a house, usally the realtor will do the Middleman's role so the realtor will create the contract from hise/her PC, set the seller information (Etherum address) and the fee the Middleman will take from the price. Or a seller can create a new contract, asking somebody else like lawyer do the Middleman's role. The seller can set the information of the person doing the Middleman's role, his Ethereum address fee and the fee to that person.
+
+* Now the new Solidity contract has an option not to have Middlman. In this case, the purchace happen right away the buyer confirms the purchase. The money will be sent to the seller directly.
 
 ## States of the contract
 
