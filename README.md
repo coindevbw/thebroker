@@ -1,6 +1,6 @@
 # The Ethereum Middleman (Formerly 'The Broker')
 
-Here's the [verified Smart Contract code](https://etherscan.io/address/0xa3c0a687a6665b9f2f7e718215fbb9cb588283a9#code)
+Here's the [verified Smart Contract code](https://etherscan.io/address/0xd1894d59fb85913b26862fb6d188923d72f75d07#code)
 
 (Also migrated to the test network, 'Ropsten')
 
