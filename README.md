@@ -1,6 +1,6 @@
 # The Ethereum Middleman (Formerly 'The Broker')
 
-Here's the [verified Smart Contract code](https://etherscan.io/address/0xd1894d59fb85913b26862fb6d188923d72f75d07#code)
+Here's the [verified Smart Contract code](https://etherscan.io/address/0xf3021a6c271d044dc5f6181bbf7bfbaf9fe16538#code)
 
 (Also migrated to the test network, 'Ropsten')
 
@@ -97,4 +97,4 @@ Of course, we can mix in the 'auction' model here.
 
 ## Donation
 If you want to support project, you can send Ethereum to this address. Thank you.
-0x7C67F0CDBea74592240d492Aef2a712DAFa094c3
+0x33F8dAcBc75F53549298100E85102be995CdBF59
